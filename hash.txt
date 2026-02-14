@@ -1,0 +1,12 @@
+Artifact: Twistor–SMRK Framework for the Yang–Mills Mass Gap.pdf
+
+SHA256: cc23af9bb3b5b96f27630e2d48ce07b062369e73751702435e6d0a4b7cd1b000
+
+Generated:
+2026-02-14
+
+OpenTimestamps proof:
+Twistor–SMRK Framework for the Yang–Mills Mass Gap.pdf.ots
+
+Verification command:
+ots verify "Twistor–SMRK Framework for the Yang–Mills Mass Gap.pdf.ots"

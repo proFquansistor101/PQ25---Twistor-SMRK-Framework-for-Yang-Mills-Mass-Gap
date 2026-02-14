@@ -5,7 +5,7 @@
 **Organization:** 101research.group  
 
 **Project home:** https://101research.group  
-**GitHub:** https://github.com/101researchgroup/PQ25---Twistor-SMRK-YM-Mass-Gap
+**GitHub:** https://github.com/101researchgroup/PQ25---Twistor-SMRK-Framework-for-Yang-Mills-Mass-Gap
 
 ---
 

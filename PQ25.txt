@@ -6,7 +6,7 @@ with a Testable λ→0 Criterion
 
 101research.group
 
-Author: Honza Rožek
+Author: proFQuansistor
 Date: February 14, 2026
 
 Abstract
